@@ -17,4 +17,4 @@ This will add the transaction to the ledger and start creating a data chart to h
 Images of the deployed app. Available on https://github.com/Lesleyworden/Budget_Tracker and deployed on https://arcane-peak-01819.herokuapp.com/
 
 ![Budget Tracker Example](https://github.com/Lesleyworden/Budget_Tracker/blob/main/BudgetTracker1.png)
-![Tracker] (https://github.com/Lesleyworden/Budget_Tracker/blob/main/BudgetTracker2.png)
+![Budget Tracker Example](https://github.com/Lesleyworden/Budget_Tracker/blob/main/BudgetTracker2.png)
